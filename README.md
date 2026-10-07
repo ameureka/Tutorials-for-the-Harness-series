@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/harness-engineering-banner.jpg" alt="Harness Engineering for Production AI Agents" width="100%">
+</p>
+
 # Harness Engineering for Production AI Agents
 
 <p align="center">
